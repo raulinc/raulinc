@@ -1,4 +1,3 @@
-### Hi there 👋
 
 
 Here are some ideas to get you started:
@@ -11,3 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h2>Projects</h2>
+
+<h2>Contact Me</h2>
