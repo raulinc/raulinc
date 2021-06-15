@@ -1,5 +1,5 @@
 # Hey! I'm Rahul
-
+ I am recent Post Graduate in Information Technology and vigorously looking for Jobs in Tech Domain. I have knowledge of HTML, CSS, Python, Django, sqlite3, Machine Learning Algorithms.
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -18,12 +18,12 @@
 
 - Django Projects
 - Machine Learning
-- Another MERN Stack App
+
 
 ### :🌱: I'm currently learning:
 
-- TypeScript
 - Javascript
+- React
 - Python
 
 ### :thinking: I want to learn:
@@ -41,6 +41,7 @@
 
 - Travel Blog App in Django
 - Micro-Blogging Site in Django
+- Hand Gesture Recognition System
 
 
 ### 👨‍💻Connect with me:-
