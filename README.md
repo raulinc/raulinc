@@ -48,7 +48,7 @@
 <p align="center">
 <br>
 <a href="https://www.facebook.com/rauL.RAWAT14/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/#/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/rahul-rawat-618a23127/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:rahulrawatwork@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.kaggle.com/#"><img src="https://img.shields.io/badge/kaggle-icon.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>&nbsp;
 </p>
